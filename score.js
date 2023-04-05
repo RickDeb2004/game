@@ -17,7 +17,7 @@ p1Button.addEventListener('click',function(){
 
     isGameOver=true;
     p1Display.classList.add('winner');
-    p1Display.style.color="green";
+    p1Display.style.color="purple";
     
    }
     
